@@ -15,9 +15,9 @@ This a small tool to help saving time to deal with picking a color in your color
 - color: you will fill by your colors code 
 - Name of your color: you can custom colors code by name.
 ### EX:
-- #6c5ce7                  var(--example-color) (CSS)
-- #a29bfe                  $background-color  (SCSS)
-- rgba(255, 234, 167,1.0)  colors.background[1].sourLemon (JS)
+- color:#6c5ce7            Name of color:      var(--example-color) (CSS)
+- color:#a29bfe               Name of color:    $background-color  (SCSS)
+- color:rgba(255, 234, 167,1.0)   Name of color:colors.background[1].sourLemon (JS)
 -------------------------
 Contact me: heaty566@gmail.com 
 **Please, give me your feedback about this tool that will help to improve it's more productive.**
