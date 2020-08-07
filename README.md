@@ -1,3 +1,4 @@
+![](public/static/media/logo.16057131.svg)
 # Colors-Picker
 This a small tool to help saving time to deal with picking a color in your colors schema by **taking a copy to clipboard of color codes**
 ## Feature
